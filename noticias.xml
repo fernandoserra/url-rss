@@ -1,7 +1,21 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
     <channel>
-        <title>Mostrar titulo</title>
+        <title> <![CDATA[ Portada // marcadox ]]> </title>
+
+        <link>http://www.marcadox.com</link>
+
+        <description>
+            <![CDATA[ Portada // marcadox ]]>
+        </description>
+
+        <language>es</language>
+
+        <copyright>
+            <![CDATA[ (c) 2019, Unidad Editorial marcadox, S.A. ]]>
+        </copyright>
+
+
     </channel>
 
 </rss>
