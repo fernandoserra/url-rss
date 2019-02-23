@@ -46,28 +46,7 @@
             <pubDate>Sat, 23 Feb 2019 13:25:13 +0100</pubDate>
         </item>
 
-        <item>
-            <title>
-                <![CDATA[
-                    Titulo del item 22
-                ]]>
-            </title>
-            <description>
-                <![CDATA[
-                    descripcion 22
-                ]]>
-            </description>
-            <link>
-                 https://www.marcadox.com/yuybuyb.html
-            </link>
-            <category>
-                <![CDATA[ categorya 22 ]]>
-            </category>
-            <guid>
-                https://item1/2019/02/23/5c71327d268e3ea42a8b467b.html
-            </guid>
-            <pubDate>Sat, 23 Feb 2019 13:25:13 +0100</pubDate>
-        </item>
+       
 
     </channel>
 
