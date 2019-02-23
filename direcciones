@@ -1,0 +1,22 @@
+Categoria: tecnologia:
+{
+    url: https://computerhoy.com/
+    rss: https://computerhoy.com/rss_all/all/rss.xml
+
+    __________________________________
+    url: https://www.fayerwayer.com/
+    rss: https://feeds.feedburner.com/fayerwayer
+
+}
+
+
+Categoria: deporte:
+{
+    url: https://www.marca.com/
+    rss: https://e00-marca.uecdn.es/rss/portada.xml
+
+    _________________________________
+
+
+}
+
