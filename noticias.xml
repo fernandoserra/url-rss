@@ -21,7 +21,12 @@
         <category>
             <![CDATA[ News & Politics ]]>
         </category>
+
+
         <image>
+            <url>http://www.marcadox.com/rss_logo.gif</url>
+            <title>marcadox- Noticias</title>
+            <link>http://www.marcadox.com</link>
         </image>
 
 
