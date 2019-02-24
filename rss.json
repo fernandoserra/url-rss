@@ -1,0 +1,33 @@
+{
+    "listRss": [
+        {
+            "id": 1,
+            "BASE_URL": "https://api.foxsports.com/v1/",
+            "GET_URL": "rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=motor",
+            "Categoria": "Deportes",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 2,
+            "BASE_URL": "http://feeds.reuters.com/reuters/",
+            "GET_URL": "USVideoRoughCuts",
+            "Categoria": "Portada",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 3,
+            "BASE_URL": "http://feeds.weblogssl.com/",
+            "GET_URL": "xataka2.xml",
+            "Categoria": "Tecnologia",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        }
+    ],
+    "code": 0,
+    "message": "Success"
+}
