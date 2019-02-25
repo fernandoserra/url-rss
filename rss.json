@@ -2,6 +2,7 @@
     "listRss": [
         {
             "id": 1,
+            "name":"Fox Sport",
             "BASE_URL": "https://api.foxsports.com/v1/",
             "GET_URL": "rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=motor",
             "Categoria": "Deportes",
@@ -11,6 +12,7 @@
         },
         {
             "id": 2,
+            "name":"Reuters",
             "BASE_URL": "http://feeds.reuters.com/reuters/",
             "GET_URL": "USVideoRoughCuts",
             "Categoria": "Portada",
@@ -20,6 +22,7 @@
         },
         {
             "id": 3,
+            "name":"Xataka",
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "xataka2.xml",
             "Categoria": "Tecnologia",
