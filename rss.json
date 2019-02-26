@@ -85,7 +85,7 @@
             "name":"adslzone",
             "BASE_URL": "https://feeds.feedburner.com/adslzone/",
             "GET_URL": "adslzone.xml",
-            "Categoria": "",
+            "Categoria": "Tecnologia",
             "img": "",
             "date_register": "",
             "date_update": ""
@@ -95,7 +95,7 @@
             "name":"computerhoy",
             "BASE_URL": "https://computerhoy.com/rss_all/all/",
             "GET_URL": "rss.xml",
-            "Categoria": "",
+            "Categoria": "Tecnologia",
             "img": "",
             "date_register": "",
             "date_update": ""
