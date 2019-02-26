@@ -29,8 +29,30 @@
             "img": "",
             "date_register": "",
             "date_update": ""
+        },
+        {
+            "id": 4,
+            "name":"Fayerwayer",
+            "BASE_URL": "https://feeds.feedburner.com/",
+            "GET_URL": "fayerwayer.xml",
+            "Categoria": "Tecnologia",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 5,
+            "name":"Desarrollo Web",
+            "BASE_URL": "https://desarrolloweb.com/rss/",
+            "GET_URL": "general_rss.phpl",
+            "Categoria": "Programacion",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
         }
     ],
     "msjError": "success",
     "codError": 0
 }
+
+
