@@ -49,6 +49,56 @@
             "img": "",
             "date_register": "",
             "date_update": ""
+        },
+        { 
+            "id": 6,
+            "name":"Genbeta",
+            "BASE_URL": "http://feeds.weblogssl.com/",
+            "GET_URL": "genbeta.xml",
+            "Categoria": "Tecnologia",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 7,
+            "name":"Applesfera",
+            "BASE_URL": "http://feeds.weblogssl.com/",
+            "GET_URL": "applesfera.xml",
+            "Categoria": "Tecnologia",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 8,
+            "name":"andro4all",
+            "BASE_URL": "https://feeds.feedburner.com/",
+            "GET_URL": "andro4all.xml",
+            "Categoria": "Tecnologia",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 9,
+            "name":"adslzone",
+            "BASE_URL": "https://feeds.feedburner.com/adslzone/",
+            "GET_URL": "adslzone.xml",
+            "Categoria": "",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 10,
+            "name":"computerhoy",
+            "BASE_URL": "https://computerhoy.com/rss_all/all/",
+            "GET_URL": "rss.xml",
+            "Categoria": "",
+            "img": "",
+            "date_register": "",
+            "date_update": ""
         }
     ],
     "msjError": "success",
