@@ -44,7 +44,7 @@
             "id": 5,
             "name":"Desarrollo Web",
             "BASE_URL": "https://desarrolloweb.com/rss/",
-            "GET_URL": "general_rss.phpl",
+            "GET_URL": "general_rss.php",
             "Categoria": "Programacion",
             "img": "",
             "date_register": "",
