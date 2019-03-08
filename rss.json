@@ -66,7 +66,7 @@
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "applesfera.xml",
             "Categoria": "Tecnologia",
-            "img": "resources/img/applesfera.png",
+            "img": "resources/img/applesfera.jpg",
             "date_register": "",
             "date_update": ""
         },
