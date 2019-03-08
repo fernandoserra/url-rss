@@ -6,7 +6,7 @@
             "BASE_URL": "https://api.foxsports.com/v1/",
             "GET_URL": "rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=motor",
             "Categoria": "Deportes",
-            "img": "",
+            "img": "resources/img/fox-60x60.png",
             "date_register": "",
             "date_update": ""
         },
@@ -26,7 +26,7 @@
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "xataka2.xml",
             "Categoria": "Tecnologia",
-            "img": "",
+            "img": "resources/img/xataka.png",
             "date_register": "",
             "date_update": ""
         },
@@ -56,7 +56,7 @@
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "genbeta.xml",
             "Categoria": "Tecnologia",
-            "img": "",
+            "img": "resources/img/genbeta.png",
             "date_register": "",
             "date_update": ""
         },
@@ -66,7 +66,7 @@
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "applesfera.xml",
             "Categoria": "Tecnologia",
-            "img": "",
+            "img": "resources/img/applesfera.png",
             "date_register": "",
             "date_update": ""
         },
@@ -85,16 +85,6 @@
             "name":"adslzone",
             "BASE_URL": "https://feeds.feedburner.com/adslzone/",
             "GET_URL": "adslzone.xml",
-            "Categoria": "Tecnologia",
-            "img": "",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 10,
-            "name":"computerhoy",
-            "BASE_URL": "https://computerhoy.com/rss_all/all/",
-            "GET_URL": "rss.xml",
             "Categoria": "Tecnologia",
             "img": "",
             "date_register": "",
