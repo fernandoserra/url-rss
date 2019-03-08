@@ -26,7 +26,7 @@
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "xataka2.xml",
             "Categoria": "Tecnologia",
-            "img": "resources/img/xataka.png",
+            "img": "resources/img/xataka.jpg",
             "date_register": "",
             "date_update": ""
         },
@@ -56,7 +56,7 @@
             "BASE_URL": "http://feeds.weblogssl.com/",
             "GET_URL": "genbeta.xml",
             "Categoria": "Tecnologia",
-            "img": "resources/img/genbeta.png",
+            "img": "resources/img/genbeta.jpg",
             "date_register": "",
             "date_update": ""
         },
