@@ -1,0 +1,69 @@
+{
+    "listCategory": [
+        {
+            "id": 1,
+            "name":"Tecnologia",         
+            "img": "resources/img/fox-60x60.png",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 2,
+            "name":"Diseño",            
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 3,
+            "name":"Marketing",           
+            "img": "resources/img/xataka.jpg",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 4,   
+            "name":"Economia",        
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 5,
+            "name":"Ciencia",            
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        },
+        { 
+            "id": 6,
+            "name":"Politica",      
+            "img": "resources/img/applesfera.jpg", 
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 7,
+            "name":"Seguridad",           
+            "img": "resources/img/applesfera.jpg",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 8,
+            "name":"Salud",           
+            "img": "resources/img/applesfera.jpg",
+            "date_register": "",
+            "date_update": ""
+        },
+        {
+            "id": 9,
+            "name":"Historia",           
+            "img": "",
+            "date_register": "",
+            "date_update": ""
+        }
+    ],
+    "msjError": "success",
+    "codError": 0
+}
