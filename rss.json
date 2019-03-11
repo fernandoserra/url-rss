@@ -1,98 +1,62 @@
-{
-    "listRss": [
-        {
-            "id": 1,
-            "name":"Fox Sport",
-            "BASE_URL": "https://api.foxsports.com/v1/",
-            "GET_URL": "rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=motor",
-            "Categoria": "Deportes",
-            "img": "resources/img/fox-60x60.png",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 2,
-            "name":"Reuters",
-            "BASE_URL": "http://feeds.reuters.com/reuters/",
-            "GET_URL": "USVideoRoughCuts",
-            "Categoria": "Portada",
-            "img": "",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 3,
-            "name":"Xataka",
-            "BASE_URL": "http://feeds.weblogssl.com/",
-            "GET_URL": "xataka2.xml",
-            "Categoria": "Tecnologia",
-            "img": "resources/img/xataka.jpg",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 4,
-            "name":"Fayerwayer",
-            "BASE_URL": "https://feeds.feedburner.com/",
-            "GET_URL": "fayerwayer.xml",
-            "Categoria": "Tecnologia",
-            "img": "",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 5,
-            "name":"Desarrollo Web",
-            "BASE_URL": "https://desarrolloweb.com/rss/",
-            "GET_URL": "general_rss.php",
-            "Categoria": "Programacion",
-            "img": "",
-            "date_register": "",
-            "date_update": ""
-        },
-        { 
-            "id": 6,
-            "name":"Genbeta",
-            "BASE_URL": "http://feeds.weblogssl.com/",
-            "GET_URL": "genbeta.xml",
-            "Categoria": "Tecnologia",
-            "img": "resources/img/genbeta.jpg",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 7,
-            "name":"Applesfera",
-            "BASE_URL": "http://feeds.weblogssl.com/",
-            "GET_URL": "applesfera.xml",
-            "Categoria": "Tecnologia",
-            "img": "resources/img/applesfera.jpg",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 8,
-            "name":"andro4all",
-            "BASE_URL": "https://feeds.feedburner.com/",
-            "GET_URL": "andro4all.xml",
-            "Categoria": "Tecnologia",
-            "img": "",
-            "date_register": "",
-            "date_update": ""
-        },
-        {
-            "id": 9,
-            "name":"adslzone",
-            "BASE_URL": "https://feeds.feedburner.com/adslzone/",
-            "GET_URL": "adslzone.xml",
-            "Categoria": "Tecnologia",
-            "img": "",
-            "date_register": "",
-            "date_update": ""
-        }
-    ],
-    "msjError": "success",
-    "codError": 0
-}
-
-
+[
+    {
+        "idRss": 8,
+        "idCategory": 1,
+        "name": "Fayerwayer",
+        "BASE_URL": "https://feeds.feedburner.com/",
+        "GET_URL": "fayerwayer.xml",
+        "img": "",
+        "created_at": "2019-03-11 02:19:32",
+        "updated_at": "2019-03-11 02:19:32"
+    },
+    {
+        "idRss": 7,
+        "idCategory": 1,
+        "name": "Genbeta",
+        "BASE_URL": "http://feeds.weblogssl.com/",
+        "GET_URL": "genbeta.xml",
+        "img": "resources/img/genbeta.jpg",
+        "created_at": "2019-03-11 02:18:51",
+        "updated_at": "2019-03-11 02:18:51"
+    },
+    {
+        "idRss": 6,
+        "idCategory": 1,
+        "name": "Applesfera",
+        "BASE_URL": "http://feeds.weblogssl.com/",
+        "GET_URL": "applesfera.xml",
+        "img": "resources/img/applesfera.jpg",
+        "created_at": "2019-03-11 02:18:14",
+        "updated_at": "2019-03-11 02:18:14"
+    },
+    {
+        "idRss": 5,
+        "idCategory": 1,
+        "name": "andro4all",
+        "BASE_URL": "https://feeds.feedburner.com/",
+        "GET_URL": "andro4all.xml",
+        "img": "",
+        "created_at": "2019-03-11 02:17:38",
+        "updated_at": "2019-03-11 02:17:38"
+    },
+    {
+        "idRss": 4,
+        "idCategory": 1,
+        "name": "adslzone",
+        "BASE_URL": "https://feeds.feedburner.com/adslzone/",
+        "GET_URL": "adslzone.xml",
+        "img": "",
+        "created_at": "2019-03-11 02:17:11",
+        "updated_at": "2019-03-11 02:17:11"
+    },
+    {
+        "idRss": 1,
+        "idCategory": 1,
+        "name": "Xataka",
+        "BASE_URL": "http://feeds.weblogssl.com/",
+        "GET_URL": "xataka2.xml",
+        "img": "resources/img/xataka.jpg",
+        "created_at": "2019-03-10 00:00:00",
+        "updated_at": "2019-03-10 00:00:00"
+    }
+]
